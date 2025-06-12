@@ -14,7 +14,7 @@
                 <!-- Логотип -->
                 <img src="asset/imgs/photo_2025-06-03_15-39-10.jpg" alt="Логотип Ганимед" class="img-fluid mb-4" style="max-width: 300px;">
                 <h1>Блокчейн Ганимед</h1>
-                <p class="lead">Децентрализованная платформа для создания и управления цифровыми активами.</p>
+                <p class="lead">ГАНИМЕД (GND) - Блокчейн Цифровой Инвестиционной Проектной Платформы</p>
             </div>
         </div>
         <div class="row mt-4">
@@ -25,18 +25,45 @@
                 </p>
             </div>
         </div>
+
+        <!-- Основные возможности -->
         <div class="row mt-4">
             <div class="col-12">
-                <h2>Методы API</h2>
+                <h2>Основные возможности</h2>
+                <h3>1. Управление инвестиционными проектами</h3>
                 <ul class="list-group">
-                    <li class="list-group-item">Метод 1: Создание нового аккаунта</li>
-                    <li class="list-group-item">Метод 2: Отправка транзакции</li>
-                    <li class="list-group-item">Метод 3: Получение баланса</li>
-                    <li class="list-group-item">Метод 4: История транзакций</li>
-                    <li class="list-group-item">Метод 5: Регистрация нового блока</li>
+                    <li class="list-group-item">Создание и управление инвестиционными проектами</li>
+                    <li class="list-group-item">Токенизация активов и прав</li>
+                    <li class="list-group-item">Автоматизация инвестиционных процессов</li>
+                    <li class="list-group-item">Прозрачное распределение доходов</li>
+                </ul>
+
+                <h3>2. Токенизация активов</h3>
+                <ul class="list-group">
+                    <li class="list-group-item">Поддержка различных типов токенов (GNDst1)</li>
+                    <li class="list-group-item">Управление правами собственности</li>
+                    <li class="list-group-item">Автоматизация дивидендных выплат</li>
+                    <li class="list-group-item">Интеграция с традиционными финансовыми инструментами</li>
+                </ul>
+
+                <h3>3. Консенсус и безопасность</h3>
+                <ul class="list-group">
+                    <li class="list-group-item">Гибридный консенсус (PoA/PoS)</li>
+                    <li class="list-group-item">Многоуровневая система безопасности</li>
+                    <li class="list-group-item">Аудит транзакций и контрактов</li>
+                    <li class="list-group-item">Защита от мошенничества</li>
+                </ul>
+
+                <h3>4. Смарт-контракты</h3>
+                <ul class="list-group">
+                    <li class="list-group-item">Поддержка EVM-совместимых контрактов</li>
+                    <li class="list-group-item">Библиотека стандартных контрактов</li>
+                    <li class="list-group-item">Автоматизация бизнес-процессов</li>
+                    <li class="list-group-item">Интеграция с внешними системами</li>
                 </ul>
             </div>
         </div>
+
     </div>
     <!-- Bootstrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>

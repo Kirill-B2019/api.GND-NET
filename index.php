@@ -15,7 +15,7 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <!-- Логотип -->
-                    <img src="asset/imgs/photo_2025-06-03_15-39-10.jpg" alt="Логотип Ганимед" class="img-fluid mb-4" style="max-width: 300px;">
+                    <img src="asset/imgs/logoGNDwhite.png" alt="Логотип Ганимед" class="img-fluid mb-4" style="max-width: 300px;">
                     <h1>Блокчейн Ганимед</h1>
                     <p class="lead">ГАНИМЕД (GND) - Блокчейн Цифровой Инвестиционной Проектной Платформы</p>
                 </div>
